@@ -1,4 +1,4 @@
-# Jogo da Velha em Python
+# Jogo da Velha
 
 Este é um simples jogo da velha (também conhecido como "tic-tac-toe") implementado em Python, onde dois jogadores se alternam para marcar posições em um tabuleiro 3x3, até que um jogador consiga alinhar três de seus símbolos (X ou O) em uma linha, coluna ou diagonal.
 
