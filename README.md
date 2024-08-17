@@ -23,3 +23,5 @@ O jogo da velha é jogado em um tabuleiro 3x3. Dois jogadores, um jogando com "X
 ```bash
 python jogo_da_velha.py
 ```
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
